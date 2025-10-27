@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<HTML lang="ja">
+     <head>
+       <mete chaeset="UTF-8">
+       <title>ピックアップスイーツ</title>
+     </head>
+     <body>
+       　<h1>ピックアップスイーツ</h1>
+        <p>今月の厳選スイーツを紹介します。</p>
+        <h2>黒糖のマカロン</h2>
+       <p>当店のマカロンんの素材は厳選した素材を使用しています。</p>
+       <p>今年とれた国内さんの栗を使用したケーキです。</p>
+      <img src="Images/bmacron.jpg">
+           </body>
+</HTML>
