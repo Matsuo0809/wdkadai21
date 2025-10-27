@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<HTML lang="ja">
+     <head>
+       <mete chaeset="UTF-8">
+       <title>お勧めスイーツ</title>
+     </head>
+     <body>
+       　<h1>ピックアップスイーツ</h1>
+        <p>今月のお勧めスイーツを3つ紹介します。</p>
+        <h2>ピックアップスイーツ</h2>
+       <p>今月のおすすめスイーツを紹介します。</p>
+      <a href="sample26_1.html">苺のショートケーキ</a>
+           </body>
+</HTML>
